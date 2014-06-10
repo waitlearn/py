@@ -1,2 +1,8 @@
 #automated folder
 __pycache__
+
+#pyc files from importing
+*.pyc
+
+#py~ files from emacs or vi
+*.py~
