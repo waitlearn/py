@@ -6,3 +6,5 @@ __pycache__
 
 #py~ files from emacs or vi
 *.py~
+
+*.swp
